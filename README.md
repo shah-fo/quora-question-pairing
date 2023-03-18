@@ -32,27 +32,27 @@ For this purpose, we found a dataset on Kaggle which provides information if two
 #### Histogram
 - Log histogram depicting count of occurence of each question
 
-![alt text](img/eda_histogram.png | width=100)
+![alt text](img/eda_histogram.png | width=100px)
 
 #### Density Plot
 - Density plot of duplicate and non duplicate questions. Plot is between word count ratio and density.
 
-![alt text](img/eda_density_plot.png | width=100)
+![alt text](img/eda_density_plot.png | width=100px)
 
 #### Word Cloud
 - Word Clouds can be good icebreakers and can provide an entry point for a topic of discussion.
 
-![alt text](img/eda_word_cloud.png | width=100)
+![alt text](img/eda_word_cloud.png | width=100px)
 
 
 ### BERT Model
 - BERT stands for Bidirectional Encoder Representations from Transformers, which is a type of neural network model used in Natural Language Processing (NLP). It is a type of pre-trained language model that uses a large amount of unlabeled text data to learn the context of words in a language. BERT helps to understand the nuances of language and the relationships between different words and phrases.
 
-![alt text](img/bert_model.png | width=100)
+![alt text](img/bert_model.png | width=100px)
 
 ### Evaluation
 
-![alt text](img/evaluation.png | width=100)
+![alt text](img/evaluation.png | width=100px)
 
 ### Libraries
 - pandas
