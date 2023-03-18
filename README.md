@@ -25,28 +25,34 @@ For this purpose, we found a dataset on Kaggle which provides information if two
 - First Column: Question_1 (string)
 - Second Column: Question_2 (string)
 - Third Column: Label (0 or 1)
-![alt text](https://github.com/shah-fo/quora-question-pairing/tree/main/img/dataset.png)
+
+![alt text](img/dataset.png)
 
 
 #### Histogram
 - Log histogram depicting count of occurence of each question
-![alt text](https://github.com/shah-fo/quora-question-pairing/tree/main/img/eda_histogram.png)
+
+![alt text](img/eda_histogram.png)
 
 #### Density Plot
 - Density plot of duplicate and non duplicate questions. Plot is between word count ratio and density.
-![alt text](https://github.com/shah-fo/quora-question-pairing/tree/main/img/eda_density_plot.png)
+
+![alt text](img/eda_density_plot.png)
 
 #### Word Cloud
 - Word Clouds can be good icebreakers and can provide an entry point for a topic of discussion.
-![alt text](https://github.com/shah-fo/quora-question-pairing/tree/main/img/eda_word_cloud.png)
+
+![alt text](img/eda_word_cloud.png)
 
 
 ### BERT Model
 - BERT stands for Bidirectional Encoder Representations from Transformers, which is a type of neural network model used in Natural Language Processing (NLP). It is a type of pre-trained language model that uses a large amount of unlabeled text data to learn the context of words in a language. BERT helps to understand the nuances of language and the relationships between different words and phrases.
-![alt text](https://github.com/shah-fo/quora-question-pairing/tree/main/img/bert_model.png)
+
+![alt text](img/bert_model.png)
 
 ### Evaluation
-![alt text](https://github.com/shah-fo/quora-question-pairing/tree/main/img/evaluation.png)
+
+![alt text](img/evaluation.png)
 
 ### Libraries
 - pandas
@@ -57,5 +63,5 @@ For this purpose, we found a dataset on Kaggle which provides information if two
 - seaborn
 
 ## Other Contributors
-Dhavan Sanghvi (https://github.com/Dhavan05)
-Nidhi Bodar ()
+- Dhavan Sanghvi (https://github.com/Dhavan05)
+- Nidhi Bodar ()
